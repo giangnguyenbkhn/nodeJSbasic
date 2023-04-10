@@ -1,0 +1,4 @@
+// Nhiệm vụ của babel đó là dịch từ những chuẩn Javascript mới nhất (ECMAScript - ES) cho các version browser cũ
+{
+  "presets": ["@babel/preset-env"]
+}
